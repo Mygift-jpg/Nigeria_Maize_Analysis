@@ -15,8 +15,6 @@
 ## Files
 - maize_cleaning.py: Python script for cleaning the data.
 - cleaned_agriculture_datasets.csv: Cleaned dataset ready for analysis.
-- most_cleaned_production_data.csv: Raw production data (optional).
-- most_cleaned_price_data.csv: Raw price data (optional).
 
 ## How to Run
 1. Install dependencies: pip install pandas
